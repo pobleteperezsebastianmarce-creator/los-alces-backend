@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rincón Sur</string>
+
+    <string name="bienvenido">¡Bienvenido/a!</string>
+    <string name="login_subtitulo">Inicia sesión para gestionar los probadores de tu sección.</string>
+    <string name="usuario">Usuario</string>
+    <string name="usuario_hint">empleado.123</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="login">Login</string>
+    <string name="olvidaste">¿Olvidaste tu contraseña?</string>
+    <string name="mensaje_olvido">Si olvidaste tu contraseña, avisa en el mesón de tienda.</string>
+    <string name="error_campo_obligatorio">Campo obligatorio</string>
+    <string name="error_credenciales">Usuario o contraseña incorrectos</string>
+
+    <string name="bienvenido_de_nuevo">¡Bienvenido de nuevo, %1$s!</string>
+    <string name="configuracion_turno">Configuración de Turno</string>
+    <string name="seccion_asignada">Sección asignada</string>
+    <string name="probadores_activos">Probadores activos</string>
+    <string name="iniciar_turno">Iniciar turno</string>
+    <string name="soporte">Soporte</string>
+    <string name="mensaje_soporte">Soporte de tienda: acércate al mesón o escribe a soporte@rinconsur.cl.</string>
+    <string name="tienda">Tienda Rincón Sur</string>
+
+    <string name="titulo_probadores">Estado de Probadores</string>
+    <string name="filtro_todos">Todos</string>
+    <string name="filtro_disponibles">Disponibles</string>
+    <string name="filtro_ocupados">Ocupados</string>
+    <string name="filtro_alertas">Alertas</string>
+    <string name="hint_acciones">Toca para acciones...</string>
+    <string name="probador_nombre">Probador %1$d</string>
+    <string name="disponible">Disponible.</string>
+    <string name="tiempo">Tiempo: %1$s</string>
+    <string name="articulos">Artículos: %1$d</string>
+    <string name="exceso_tiempo">Exceso de Tiempo</string>
+    <string name="sin_resultados">No hay probadores en esta vista.</string>
+    <string name="turno_cerrado">Turno cerrado</string>
+    <string name="nuevo_turno">Nuevo turno</string>
+
+    <string name="asignar_titulo">Asignar Probador %1$d</string>
+    <string name="numero_prendas">Número de Prendas:</string>
+    <string name="iniciar_uso">Iniciar Uso</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="liberar_titulo">Liberar Probador %1$d</string>
+    <string name="prendas_confirmar">Prendas a confirmar:</string>
+    <string name="confirmar_liberacion">Confirmar Liberación</string>
+
+    <string name="termino_turno">Término de turno</string>
+    <string name="cerrar_turno">Cerrar turno</string>
+    <string name="volver">Volver</string>
+    <string name="informe_titulo">Informe de turno</string>
+    <string name="probadores_usados">Probadores usados</string>
+    <string name="prendas_totales">Prendas totales</string>
+    <string name="excesos_doce">Veces que se pasó de 12 minutos</string>
+    <string name="informe_vacio">Aún no hay un turno cerrado. El resumen quedará guardado al cerrar el turno.</string>
+    <string name="seccion_actual">Sección: %1$s</string>
+    <string name="informe_guardado">Resumen guardado del turno</string>
+    <string name="informe_en_curso">Resumen del turno en curso</string>
+
+    <string name="alerta_titulo">Alerta de Probador</string>
+    <string name="alerta_exceso">Probador %1$d: Exceso de Tiempo</string>
+    <string name="alerta_cuerpo">Ha superado el tiempo máximo de uso</string>
+    <string name="alerta_cuerpo_tiempo">Ha superado el tiempo máximo de uso (%1$s).</string>
+    <string name="canal_alertas">Alertas de probadores</string>
+    <string name="canal_alertas_desc">Aviso cuando un probador supera los 12 minutos.</string>
+    <string name="aviso_sin_notificaciones">Sin permiso de notificaciones. El probador igual se pondrá en rojo y el teléfono vibrará.</string>
+    <string name="sin_alertas">Sin alertas por ahora.</string>
+    <string name="hay_alertas">Hay %1$d probador(es) en exceso de tiempo.</string>
+    <string name="sesion_de">Sesión de %1$s</string>
+
+    <string name="logo_rincon">Rincón</string>
+    <string name="logo_sur">Sur</string>
+    <string name="cd_logo">Logo Rincón Sur</string>
+    <string name="cd_usuario">Usuario</string>
+    <string name="cd_contrasena">Contraseña</string>
+    <string name="cd_campana">Alertas</string>
+    <string name="cd_avatar">Cuenta</string>
+    <string name="cd_inicio">Inicio</string>
+    <string name="cd_calendario">Informe</string>
+    <string name="cd_cerrar">Cerrar turno</string>
+    <string name="cd_menos">Disminuir</string>
+    <string name="cd_mas">Aumentar</string>
+    <string name="cd_reloj">Tiempo de uso</string>
+    <string name="cd_articulos">Artículos</string>
+    <string name="cd_alerta">Exceso de tiempo</string>
+</resources>
